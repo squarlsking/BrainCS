@@ -1,0 +1,9 @@
+﻿trial,angle,same,letter,response,rt,correct
+1,30,False,K,f,0.9987569999975676,False
+2,0,True,P,f,0.8965647999975772,True
+3,30,False,Q,j,1.2391496000018378,True
+4,30,False,Q,j,0.7613256000004185,True
+5,0,False,K,f,0.933322799999587,False
+6,180,False,Z,f,1.986779300001217,False
+7,120,True,P,f,1.1978495000003022,True
+8,150,False,S,f,1.832588700002816,False
